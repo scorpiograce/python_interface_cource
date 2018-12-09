@@ -4,7 +4,14 @@ from lib.HTMLTestRunner_PY3 import HTMLTestRunner
 from lib.send_email import send_email
 
 # 遍历指定文件夹下及子包下的所有测试用例  test_
-all = unittest.defaultTestLoader.discover("testcase")
+#all = unittest.defaultTestLoader.discover("testcase")
+# 绝对路径法：
+import os
+config_path = os.path.abspath(__file__)  # __file__当前文件  os.path.abspath() 绝对路径
+conf_path = os.path.dirname(config_path)  # os.path.dirname() 所在文件夹即项目的路径
+# testcase目录
+data_file = os.path.join(project_path, 'testcase')
+all = unittest.defaultTestLoader.discover(data_file)
 
 
 if __name__ == "__main__":
