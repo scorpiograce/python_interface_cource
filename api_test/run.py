@@ -1,7 +1,7 @@
 import unittest
-from day5.api_test.conf import config
-from day5.api_test.lib.HTMLTestRunner_PY3 import HTMLTestRunner
-from day5.api_test.lib.send_email import send_email
+from conf import config
+from lib.HTMLTestRunner_PY3 import HTMLTestRunner
+from lib.send_email import send_email
 
 # 遍历指定文件夹下及子包下的所有测试用例  test_
 all = unittest.defaultTestLoader.discover("./testcase")

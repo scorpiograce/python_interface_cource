@@ -1,10 +1,10 @@
 import unittest
 import requests
 import json
-from day5.api_test.lib import db
-from day5.api_test.lib import load_data
-from day5.api_test.lib.case_log import log_case_info
-from day5.api_test.conf import config
+from lib import db
+from lib import load_data
+from lib.case_log import log_case_info
+from conf import config
 
 class TestUserLogin(unittest.TestCase):
 

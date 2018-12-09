@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f051a97-f4a4-45ea-8681-da6628cb6275" name="Default" comment="" />
+    <list default="true" id="7f051a97-f4a4-45ea-8681-da6628cb6275" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/python_interfaceTest.iml" afterPath="$PROJECT_DIR$/.idea/python_interfaceTest.iml" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/api_test.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/api_test.iml" afterPath="$PROJECT_DIR$/api_test/.idea/api_test.iml" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/encodings.xml" afterPath="$PROJECT_DIR$/api_test/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/misc.xml" afterPath="$PROJECT_DIR$/api_test/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/modules.xml" afterPath="$PROJECT_DIR$/api_test/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/api_test/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/conf/config.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/conf/config.py" afterPath="$PROJECT_DIR$/api_test/conf/config.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/data/data.xlsx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/data/data.xlsx" afterPath="$PROJECT_DIR$/api_test/data/data.xlsx" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/data/~$data.xlsx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/data/~$data.xlsx" afterPath="$PROJECT_DIR$/api_test/data/~$data.xlsx" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/HTMLTestRunner_PY3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/HTMLTestRunner_PY3.py" afterPath="$PROJECT_DIR$/api_test/lib/HTMLTestRunner_PY3.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/case_log.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/case_log.py" afterPath="$PROJECT_DIR$/api_test/lib/case_log.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/db.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/db.py" afterPath="$PROJECT_DIR$/api_test/lib/db.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/load_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/load_data.py" afterPath="$PROJECT_DIR$/api_test/lib/load_data.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/send_email.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/send_email.py" afterPath="$PROJECT_DIR$/api_test/lib/send_email.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/log/log.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/log/log.txt" afterPath="$PROJECT_DIR$/api_test/log/log.txt" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/report/report.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/report/report.html" afterPath="$PROJECT_DIR$/api_test/report/report.html" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/run.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/run.py" afterPath="$PROJECT_DIR$/api_test/run.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/suites.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/suites.py" afterPath="$PROJECT_DIR$/api_test/suites.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/testcase/test_user_login.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/testcase/test_user_login.py" afterPath="$PROJECT_DIR$/api_test/testcase/test_user_login.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/testcase/test_user_reg.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/testcase/test_user_reg.py" afterPath="$PROJECT_DIR$/api_test/testcase/test_user_reg.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/read_excel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/read_excel.py" afterPath="$PROJECT_DIR$/api_test/tmp/read_excel.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/send_email.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/send_email.py" afterPath="$PROJECT_DIR$/api_test/tmp/send_email.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/send_email_by_multimart-发送附件.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/send_email_by_multimart-发送附件.py" afterPath="$PROJECT_DIR$/api_test/tmp/send_email_by_multimart-发送附件.py" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/课堂笔记" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day5/api_test/课堂笔记" afterPath="$PROJECT_DIR$/api_test/课堂笔记" />
+    </list>
     <ignored path="python_interfaceTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,34 +59,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="python_interfaceTest" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="requests_demo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requests_demo.py">
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api_test/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334">
-              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="23" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -52,6 +88,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -61,21 +100,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="572" />
+    <option name="width" value="1620" />
     <option name="height" value="1048" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -92,32 +120,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_interfaceTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_interfaceTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_interfaceTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="python_interfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_interfaceTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_interfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="api_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_project\python_interfaceTest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Python.requests_demo">
-    <configuration default="false" name="day2_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day2_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -132,9 +176,10 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration default="false" name="requests_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="requests_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -149,7 +194,8 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,7 +330,9 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -293,24 +341,25 @@
       <changelist id="7f051a97-f4a4-45ea-8681-da6628cb6275" name="Default" comment="" />
       <created>1542512351898</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1542512351898</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21964097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18234672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27170238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27170238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -336,42 +385,55 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day2_json.py">
+    <entry file="file://$PROJECT_DIR$/requests_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/python/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="353" column="0" selection-start-line="353" selection-start-column="0" selection-end-line="353" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/python/Lib/json/decoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="354" column="0" selection-start-line="354" selection-start-column="0" selection-end-line="354" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/python/Lib/json/__init__.py" />
+    <entry file="file://D:/Program Files/python/Lib/json/decoder.py" />
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/requests_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="23" />
+        <state relative-caret-position="23">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_test/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
