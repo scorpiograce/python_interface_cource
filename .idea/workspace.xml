@@ -2,53 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f051a97-f4a4-45ea-8681-da6628cb6275" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/python_interfaceTest.iml" afterPath="$PROJECT_DIR$/.idea/python_interfaceTest.iml" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/api_test.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/api_test.iml" afterPath="$PROJECT_DIR$/api_test/.idea/api_test.iml" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/encodings.xml" afterPath="$PROJECT_DIR$/api_test/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/misc.xml" afterPath="$PROJECT_DIR$/api_test/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/modules.xml" afterPath="$PROJECT_DIR$/api_test/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/api_test/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/conf/config.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/conf/config.py" afterPath="$PROJECT_DIR$/api_test/conf/config.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/data/data.xlsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/data/data.xlsx" afterPath="$PROJECT_DIR$/api_test/data/data.xlsx" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/data/~$data.xlsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/data/~$data.xlsx" afterPath="$PROJECT_DIR$/api_test/data/~$data.xlsx" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/HTMLTestRunner_PY3.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/HTMLTestRunner_PY3.py" afterPath="$PROJECT_DIR$/api_test/lib/HTMLTestRunner_PY3.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/case_log.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/case_log.py" afterPath="$PROJECT_DIR$/api_test/lib/case_log.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/db.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/db.py" afterPath="$PROJECT_DIR$/api_test/lib/db.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/load_data.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/load_data.py" afterPath="$PROJECT_DIR$/api_test/lib/load_data.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/send_email.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/lib/send_email.py" afterPath="$PROJECT_DIR$/api_test/lib/send_email.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/log/log.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/log/log.txt" afterPath="$PROJECT_DIR$/api_test/log/log.txt" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/report/report.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/report/report.html" afterPath="$PROJECT_DIR$/api_test/report/report.html" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/run.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/run.py" afterPath="$PROJECT_DIR$/api_test/run.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/suites.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/suites.py" afterPath="$PROJECT_DIR$/api_test/suites.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/testcase/test_user_login.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/testcase/test_user_login.py" afterPath="$PROJECT_DIR$/api_test/testcase/test_user_login.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/testcase/test_user_reg.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/testcase/test_user_reg.py" afterPath="$PROJECT_DIR$/api_test/testcase/test_user_reg.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/read_excel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/read_excel.py" afterPath="$PROJECT_DIR$/api_test/tmp/read_excel.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/send_email.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/send_email.py" afterPath="$PROJECT_DIR$/api_test/tmp/send_email.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/send_email_by_multimart-发送附件.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/tmp/send_email_by_multimart-发送附件.py" afterPath="$PROJECT_DIR$/api_test/tmp/send_email_by_multimart-发送附件.py" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/课堂笔记" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/day5/api_test/课堂笔记" afterPath="$PROJECT_DIR$/api_test/课堂笔记" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/api_test/tmp/api.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/api_test/log/log.txt" afterPath="$PROJECT_DIR$/api_test/log/log.txt" />
+      <change beforePath="$PROJECT_DIR$/api_test/report/report.html" afterPath="$PROJECT_DIR$/api_test/report/report.html" />
+      <change beforePath="$PROJECT_DIR$/api_test/run.py" afterPath="$PROJECT_DIR$/api_test/run.py" />
     </list>
     <ignored path="python_interfaceTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,6 +27,52 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api_test/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_test/tmp/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_user_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_test/testcase/test_user_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_user_reg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_test/testcase/test_user_reg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="suites.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_test/suites.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -97,6 +101,8 @@
         <option value="$PROJECT_DIR$/day2_json.py" />
         <option value="$PROJECT_DIR$/data.json" />
         <option value="$PROJECT_DIR$/requests_demo.py" />
+        <option value="$PROJECT_DIR$/api_test/tmp/api.py" />
+        <option value="$PROJECT_DIR$/api_test/run.py" />
       </list>
     </option>
   </component>
@@ -104,6 +110,9 @@
     <option name="x" value="572" />
     <option name="width" value="1620" />
     <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -120,6 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -133,11 +143,22 @@
               <item name="python_interfaceTest" type="462c0819:PsiDirectoryNode" />
               <item name="api_test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_interfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_interfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_interfaceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.requests_demo">
+  <component name="RunManager" selected="Python.run">
     <configuration name="day2_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,6 +213,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_interfaceTest" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_interfaceTest" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_test/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,9 +358,10 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.day2_json" />
-      <item index="1" class="java.lang.String" itemvalue="Python.requests_demo" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.run" />
+      <item index="1" class="java.lang.String" itemvalue="Python.day2_json" />
+      <item index="2" class="java.lang.String" itemvalue="Python.requests_demo" />
     </list>
     <recent_temporary>
       <list size="2">
@@ -353,13 +393,13 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18234672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27170238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27066818" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29105324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -385,13 +425,40 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/requests_demo.py">
+    <entry file="file://$PROJECT_DIR$/api_test/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_test/testcase/test_user_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_test/testcase/test_user_reg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -399,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -416,7 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -424,16 +489,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_test/testcase/test_user_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_test/testcase/test_user_reg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_test/suites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_test/tmp/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api_test/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="138">
+          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

@@ -4,7 +4,7 @@ from lib.HTMLTestRunner_PY3 import HTMLTestRunner
 from lib.send_email import send_email
 
 # 遍历指定文件夹下及子包下的所有测试用例  test_
-all = unittest.defaultTestLoader.discover("./testcase")
+all = unittest.defaultTestLoader.discover("testcase")
 
 
 if __name__ == "__main__":
