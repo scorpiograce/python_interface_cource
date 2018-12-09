@@ -454,3 +454,22 @@
 2018-12-09 18:14:56 INFO log_case_info [case_log.py-9] 实际结果: {"code":"100001","data":{"name":"\u5f20\u4e09","password":"e10adc3949ba59abbe56e057f20f883e"},"msg":"\u5931\u8d25\uff0c\u7528\u6237\u5df2\u5b58\u5728"}
 
 2018-12-09 18:14:56 INFO <module> [run.py-20] 测试结束==================================================
+2018-12-09 18:21:54 DEBUG db_query [db.py-16] select * from user where name='张三'
+2018-12-09 18:21:54 INFO <module> [run.py-19] 测试开始==================================================
+2018-12-09 18:21:54 DEBUG db_query [db.py-16] select * from user where name='张三丰'
+2018-12-09 18:21:54 DEBUG _new_conn [connectionpool.py-205] Starting new HTTP connection (1): 127.0.0.1:1080
+2018-12-09 18:21:54 DEBUG _make_request [connectionpool.py-393] http://127.0.0.1:1080 "POST http://115.28.108.130:5000/api/user/reg/ HTTP/1.1" 503 0
+2018-12-09 18:21:54 INFO log_case_info [case_log.py-4] --------------------------------------------------
+2018-12-09 18:21:54 INFO log_case_info [case_log.py-5] 执行用例: test_user_reg_use_exist
+2018-12-09 18:21:54 INFO log_case_info [case_log.py-6] 接口地址: http://115.28.108.130:5000/api/user/reg/
+2018-12-09 18:21:54 INFO log_case_info [case_log.py-7] 请求数据:  {"name": "张三", "password": "123456"}
+2018-12-09 18:21:54 INFO log_case_info [case_log.py-8] 期望结果: {
+    "code": "100001",
+    "data": {
+        "name": "张三",
+        "password": "e10adc3949ba59abbe56e057f20f883e"
+    },
+    "msg": "失败，用户已存在"
+}
+2018-12-09 18:21:54 INFO log_case_info [case_log.py-9] 实际结果: 
+2018-12-09 18:21:54 INFO <module> [run.py-27] 测试结束==================================================

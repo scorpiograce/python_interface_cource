@@ -8,7 +8,7 @@ from lib.send_email import send_email
 # 绝对路径法：
 import os
 config_path = os.path.abspath(__file__)  # __file__当前文件  os.path.abspath() 绝对路径
-conf_path = os.path.dirname(config_path)  # os.path.dirname() 所在文件夹即项目的路径
+project_path = os.path.dirname(config_path)  # os.path.dirname() 所在文件夹即项目的路径
 # testcase目录
 data_file = os.path.join(project_path, 'testcase')
 all = unittest.defaultTestLoader.discover(data_file)

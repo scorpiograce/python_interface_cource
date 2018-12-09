@@ -196,9 +196,9 @@
         
     <div class='page-header'>
         <h1>User接口测试报告</h1>
-    <p class='attribute'><strong>开始时间:</strong> 2018-12-09 18:14:55</p>
-<p class='attribute'><strong>运行时长:</strong> 0:00:00.432909</p>
-<p class='attribute'><strong>状态:</strong> 通过 4</p>
+    <p class='attribute'><strong>开始时间:</strong> 2018-12-09 18:21:54</p>
+<p class='attribute'><strong>运行时长:</strong> 0:00:00.238634</p>
+<p class='attribute'><strong>状态:</strong> 错误 3</p>
 
     </div>
     <div style="float: left;width:50%;"><p class='description'>测试报告</p></div>
@@ -229,50 +229,158 @@
             <td>查看</td>
         </tr>
         
-    <tr class='passClass'>
-        <td>test_user_login.TestUserLogin</td>
-        <td>2</td>
-        <td>2</td>
+    <tr class='errorClass'>
+        <td>unittest.loader._FailedTest</td>
+        <td>1</td>
         <td>0</td>
         <td>0</td>
-        <td><a href="javascript:showClassDetail('c1',2)">详情</a></td>
+        <td>1</td>
+        <td><a href="javascript:showClassDetail('c1',1)">详情</a></td>
     </tr>
 
-<tr id='pt1.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_user_login_normal</div></td>
-    <td colspan='5' align='center'>通过</td>
+<tr id='ft1.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_user_login</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
+        错误</a>
+
+    <div id='div_ft1.1' class="popup_window">
+        <pre>
+        ft1.1: ImportError: Failed to import test module: test_user_login
+Traceback (most recent call last):
+  File "D:\Program_Files\Python\Python36\lib\site-packages\pymysql\connections.py", line 582, in connect
+    **kwargs)
+  File "D:\Program_Files\Python\Python36\lib\socket.py", line 722, in create_connection
+    raise err
+  File "D:\Program_Files\Python\Python36\lib\socket.py", line 713, in create_connection
+    sock.connect(sa)
+OSError: [WinError 10051] 向一个无法连接的网络尝试了一个套接字操作。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program_Files\Python\Python36\lib\unittest\loader.py", line 428, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "D:\Program_Files\Python\Python36\lib\unittest\loader.py", line 369, in _get_module_from_name
+    __import__(name)
+  File "D:\python_project\python_interfaceTest\api_test\testcase\test_user_login.py", line 9, in &lt;module&gt;
+    class TestUserLogin(unittest.TestCase):
+  File "D:\python_project\python_interfaceTest\api_test\testcase\test_user_login.py", line 15, in TestUserLogin
+    @unittest.skipUnless(db.check_user("张三"), "跳过该测试用例")
+  File "D:\python_project\python_interfaceTest\api_test\lib\db.py", line 42, in check_user
+    result = db_query("select * from user where name='%s'" % name)
+  File "D:\python_project\python_interfaceTest\api_test\lib\db.py", line 17, in db_query
+    conn = get_conn()
+  File "D:\python_project\python_interfaceTest\api_test\lib\db.py", line 12, in get_conn
+    charset='utf8')
+  File "D:\Program_Files\Python\Python36\lib\site-packages\pymysql\__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "D:\Program_Files\Python\Python36\lib\site-packages\pymysql\connections.py", line 327, in __init__
+    self.connect()
+  File "D:\Program_Files\Python\Python36\lib\site-packages\pymysql\connections.py", line 629, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '115.28.108.130' ([WinError 10051] 向一个无法连接的网络尝试了一个套接字操作。)")
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
 </tr>
 
-<tr id='pt1.2' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_user_login_password_wrong</div></td>
-    <td colspan='5' align='center'>通过</td>
-</tr>
-
-    <tr class='passClass'>
+    <tr class='errorClass'>
         <td>test_user_reg.TestUserReg</td>
         <td>2</td>
+        <td>0</td>
+        <td>0</td>
         <td>2</td>
-        <td>0</td>
-        <td>0</td>
         <td><a href="javascript:showClassDetail('c2',2)">详情</a></td>
     </tr>
 
-<tr id='pt2.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_user_reg_normal</div></td>
-    <td colspan='5' align='center'>通过</td>
+<tr id='ft2.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_user_reg_normal</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.1')" >
+        错误</a>
+
+    <div id='div_ft2.1' class="popup_window">
+        <pre>
+        ft2.1: Traceback (most recent call last):
+  File "D:\Program_Files\Python\Python36\lib\site-packages\pymysql\connections.py", line 582, in connect
+    **kwargs)
+  File "D:\Program_Files\Python\Python36\lib\socket.py", line 722, in create_connection
+    raise err
+  File "D:\Program_Files\Python\Python36\lib\socket.py", line 713, in create_connection
+    sock.connect(sa)
+OSError: [WinError 10051] 向一个无法连接的网络尝试了一个套接字操作。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_project\python_interfaceTest\api_test\testcase\test_user_reg.py", line 16, in test_user_reg_normal
+    if db.check_user("张三丰"):
+  File "D:\python_project\python_interfaceTest\api_test\lib\db.py", line 42, in check_user
+    result = db_query("select * from user where name='%s'" % name)
+  File "D:\python_project\python_interfaceTest\api_test\lib\db.py", line 17, in db_query
+    conn = get_conn()
+  File "D:\python_project\python_interfaceTest\api_test\lib\db.py", line 12, in get_conn
+    charset='utf8')
+  File "D:\Program_Files\Python\Python36\lib\site-packages\pymysql\__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "D:\Program_Files\Python\Python36\lib\site-packages\pymysql\connections.py", line 327, in __init__
+    self.connect()
+  File "D:\Program_Files\Python\Python36\lib\site-packages\pymysql\connections.py", line 629, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '115.28.108.130' ([WinError 10051] 向一个无法连接的网络尝试了一个套接字操作。)")
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
 </tr>
 
-<tr id='pt2.2' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_user_reg_use_exist</div></td>
-    <td colspan='5' align='center'>通过</td>
+<tr id='ft2.2' class='none'>
+    <td class='errorCase'><div class='testcase'>test_user_reg_use_exist</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.2')" >
+        错误</a>
+
+    <div id='div_ft2.2' class="popup_window">
+        <pre>
+        ft2.2: Traceback (most recent call last):
+  File "D:\python_project\python_interfaceTest\api_test\testcase\test_user_reg.py", line 39, in test_user_reg_use_exist
+    self.assertDictEqual(excepted_res, res.json())
+  File "D:\Program_Files\Python\Python36\lib\site-packages\requests\models.py", line 897, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "D:\Program_Files\Python\Python36\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "D:\Program_Files\Python\Python36\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\Program_Files\Python\Python36\lib\json\decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
 </tr>
 
         <tr id='total_row'>
             <td>总计</td>
-            <td>4</td>
-            <td>4</td>
+            <td>3</td>
             <td>0</td>
             <td>0</td>
+            <td>3</td>
             <td>&nbsp;</td>
         </tr>
     </table>
@@ -305,9 +413,9 @@
                     radius : '60%',
                     center: ['50%', '60%'],
                     data:[
-                        {value:4, name:'通过'},
+                        {value:0, name:'通过'},
                         {value:0, name:'失败'},
-                        {value:0, name:'错误'}
+                        {value:3, name:'错误'}
                     ],
                     itemStyle: {
                         emphasis: {
